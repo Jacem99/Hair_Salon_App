@@ -1,0 +1,23 @@
+.mRight {
+    margin-right: 40px;
+}
+.divLeft{
+    margin-top: 15px;
+    margin-bottom: 9px;
+}
+
+.mLeft {
+    margin-left: 20px;
+}
+
+button {
+    float: left;
+    margin-left: 3px;
+    margin-bottom: 5px;
+}
+
+.btn_margin {
+    width: 90px;
+    margin-right: 10px;
+
+}

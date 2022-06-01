@@ -1,0 +1,11 @@
+p {
+    font-size: 35px;
+}
+ ul {
+    text-decoration: none;
+}
+
+ul li {
+    font-size: 19px;
+    list-style-type: none;
+}

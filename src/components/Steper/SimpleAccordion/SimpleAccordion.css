@@ -1,0 +1,46 @@
+
+.List{
+    width: 100%;
+}
+
+.Listgroup{
+    padding: 15px;
+    border-bottom: 1px solid rgb(156, 123, 123);
+    border-radius: 9px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.ListG1{
+    width: 70%;
+    float: left;
+}
+.ListG1 p{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.ListG2{
+    width: 80px;
+    margin-top: 80px;
+    float: right;
+    font-size: 18px;
+    }
+    
+.ListG2 input{
+    width: 18px;
+   height: 18px;
+   margin-top: 5px;
+   margin-left: 8px;
+}
+   
+    
+.List .Listgroup ul{
+text-decoration: none;
+}
+.List .Listgroup ul li{
+    list-style-type: none;
+    }
+.fr{
+    float: right;
+}

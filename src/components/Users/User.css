@@ -1,0 +1,16 @@
+body{
+  background-color: silver;
+ } 
+.form {
+    margin: 0px 10px 10px 10px;
+  }
+  .submitButton{
+    margin-right: 3px;
+  }
+ 
+  .margin_style{
+    margin-bottom: 30px;
+    }
+    .div_button{
+      overflow: hidden;
+    }
